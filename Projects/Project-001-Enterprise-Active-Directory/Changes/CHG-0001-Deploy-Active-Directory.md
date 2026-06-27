@@ -42,7 +42,7 @@ Overall Risk:
 4. Create domain:
 
 ```
-homeab.local
+homelab.local
 ```
 
 5. Restart server.
