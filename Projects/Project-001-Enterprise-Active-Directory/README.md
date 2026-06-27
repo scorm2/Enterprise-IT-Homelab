@@ -93,6 +93,19 @@ OUs should be designed around administration and Group Policy application rather
 
 ---
 
+## Evidence
+
+Implementation was validated using:
+
+- Active Directory Users and Computers
+- Domain-joined workstation verification
+- Computer object validation
+- Security Group configuration
+
+Supporting screenshots are available in the **Screenshots** directory.
+
+---
+
 ## Security Groups should control permissions
 
 Permissions are assigned to Security Groups rather than directly to users to improve scalability and simplify administration.
