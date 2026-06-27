@@ -21,7 +21,7 @@ The environment is continually expanded with new infrastructure projects and is 
 | Hypervisor | VMware Workstation |
 | Server | Windows Server 2022 |
 | Client | Windows 11 Pro |
-| Domain | homeab.local |
+| Domain | homelab.local |
 | Domain Controller | GT-DC01 |
 
 ---
