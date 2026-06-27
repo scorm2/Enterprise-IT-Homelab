@@ -53,6 +53,23 @@ The environment is continually expanded with new infrastructure projects and is 
 
 ---
 
+# Portfolio Evidence
+
+Each project includes supporting evidence demonstrating successful implementation and validation.
+
+Evidence may include:
+
+- Active Directory configuration
+- Group Policy Results (`gpresult`)
+- Windows Event Viewer
+- Administrative screenshots
+- Validation testing
+- Troubleshooting documentation
+
+Refer to each project's **Screenshots** directory for supporting evidence.
+
+---
+
 # Skills Demonstrated
 
 ## Active Directory
