@@ -135,3 +135,17 @@ Enterprise troubleshooting should always begin by validating:
 - Share permissions
 - NTFS permissions
 - Event Viewer
+
+---
+
+## Evidence
+
+Implementation was validated using:
+
+- SMB share configuration
+- NTFS permission verification
+- Successful Group Policy drive mapping
+- Functional testing from domain user accounts
+
+Supporting screenshots are available in the **Screenshots** directory.
+
