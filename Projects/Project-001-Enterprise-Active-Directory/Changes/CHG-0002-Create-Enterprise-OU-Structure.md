@@ -33,7 +33,7 @@ Overall Risk:
 Created the following Organisational Units:
 
 ```
-homeab.local
+homelab.local
 │
 ├── Departments
 │   ├── IT
