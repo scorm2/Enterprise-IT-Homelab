@@ -187,3 +187,18 @@ Enterprise troubleshooting should always begin by validating:
 - gpresult output
 
 Building the environment also reinforced the importance of documenting both successful implementations and the troubleshooting process used to resolve issues.
+
+---
+
+## Evidence
+
+Implementation was validated using:
+
+- Remote Desktop connectivity testing
+- Group Policy Results (`gpresult`)
+- Successful Group Policy software deployment
+- Windows Event Viewer
+- Windows Update policy verification
+
+Supporting screenshots are available in the **Screenshots** directory.
+
