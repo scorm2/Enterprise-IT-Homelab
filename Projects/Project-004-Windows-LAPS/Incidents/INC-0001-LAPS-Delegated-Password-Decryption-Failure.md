@@ -58,7 +58,7 @@ Configured Group Policy:
 - Assigned:
 
 ```
-HOMELAB\SG_Remote_Desktop_Users
+HOMELAB\SG_SG_LAPS_Password_Decryptors
 ```
 
 Forced Group Policy update.
