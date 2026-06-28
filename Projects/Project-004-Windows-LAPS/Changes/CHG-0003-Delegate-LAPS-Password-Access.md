@@ -18,7 +18,7 @@ Configured delegated password retrieval using security groups to implement least
 
 Delegated password read permissions to:
 
-SG_Remote_Desktop_Users
+SG_LAPS_Password_Decryptors
 
 Configured:
 
