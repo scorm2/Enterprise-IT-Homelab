@@ -69,7 +69,7 @@ Successfully validated:
 - Password storage within Active Directory
 - Password rotation
 - Password retrieval
-- Delegated decryption using SG_Remote_Desktop_Users
+- Delegated decryption using SG_LAPS_Password_Decryptors
 
 ---
 
